@@ -1,0 +1,25 @@
+_repo: A-Sketch-of-the-Causes-Operations-and-Results-of-the-San-Francisco-Vigilance-Committee-of-1856_5802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webb, Stephen Palfrey
+    birthdate: 1804
+    deathdate: 1879
+    gutenberg_agent_id: '1878'
+    url: http://www.gutenberg.org/2009/agents/1878
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Francisco Committee of Vigilance of 1856'
+- !lcc 'F850.5'
+- GITenberg
+title: A Sketch of the Causes, Operations and Results of the San Francisco Vigilance
+  Committee of 1856
+url: http://www.gutenberg.org/ebooks/5802
